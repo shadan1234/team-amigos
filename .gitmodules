@@ -1,0 +1,12 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Jasharaj/backend-grading
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Jasharaj/AI-Grading-Platform
+[submodule "ml-model"]
+	path = ml-model
+	url = https://github.com/Kali414/Plagiarism-Api
+[submodule "app-client"]
+	path = app-client
+	url = https://github.com/shadan1234/classroom-hackathon
